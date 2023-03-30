@@ -1,7 +1,5 @@
 
-React and Next Js
-
-
+React and Next Js: .prettierrc
 {
   "arrowParens": "avoid",
   "bracketSpacing": true,
@@ -15,7 +13,7 @@ React and Next Js
 }
 
 
-Node.js
+Node.js .prettierrc
 
 {
   "arrowParens": "avoid",
